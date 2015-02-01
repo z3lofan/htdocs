@@ -42,7 +42,7 @@
                     </div>
                     <!-- PLEASE DO NOT REMOVE THE COPYRGHT LINE // POR FAVOR NO BORRES LA LINEA DE COPYRIGHTS -->
                     <div id="copyright">
-                    	Powered by <a href="http://www.lmcservers.com/" target="_blanck" title="UniversoLMC {version}">UniversoLMC</a> &#169; 2014-2015.
+                    	Powered by <a href="http://www.lmcservers.com/" target="_blanck" title="Random Universe {version}">QuintaDimension</a> &#169; 2014-2015.
                     </div>
                     <!-- PLEASE DO NOT REMOVE THE COPYRGHT LINE // POR FAVOR NO BORRES LA LINEA DE COPYRIGHTS -->
                 </div>

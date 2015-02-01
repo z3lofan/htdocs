@@ -4,6 +4,15 @@ $lang['Version']     = 'Versi&oacute;n';
 $lang['Description'] = 'Descripci&oacute;n';
 $lang['changelog']   = array(
 
+'3.0.0' => ' 01/02/15
+
+-[QUINTA DIMENSION]
+-- Fork de XGProyect
+--- Contacto: quintadimension@openmailbox.org
+--- Git: https://github.com/z3lofan/htdocs
+',
+
+
 '2.10.0' => ' 06/01/12
 
 -[Mejoras]

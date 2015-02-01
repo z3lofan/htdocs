@@ -1,1 +1,11 @@
-HOLAAA probando
+
+ Gonzalo Hernandez
+ Javier del Valle
+
+----------------------------------------------------------------------
+
+index.php - se ejecuta lo primero, pero nada mas empezar llama a ejecutar global.php
+
+global.php - se dedica a incluir todas las clases y demas includes. Comprueba la configuracion en config.php, lee la configuracion de language, comprueba la sesion(cookies) para ver si tiene que pedir el login, etc.. y luego llama a secureGlobals(), de la clase principal class.SecurePage.
+
+includes/classes/class.SecurePage.php - Clase que contiene funciones

@@ -2,7 +2,7 @@
 <configurations>
 	<config>
 		<name>version</name>
-		<value>2.10.0</value>
+		<value>3.0.0</value>
 	</config>
 	<config>
 		<name>users_amount</name>
@@ -42,7 +42,7 @@
 	</config>
 	<config>
 		<name>game_name</name>
-		<value>UniversoLMC</value>
+		<value>Random Universe Alfa</value>
 	</config>
 	<config>
 		<name>game_disable</name>
@@ -94,7 +94,7 @@
 	</config>
 	<config>
 		<name>forum_url</name>
-		<value>http://lmcservers.com/index.php?foro/</value>
+		<value>http://yanweb.mex.tl/559161_Xnova.html</value>
 	</config>
 	<config>
 		<name>adm_attack</name>
@@ -118,7 +118,7 @@
 	</config>
 	<config>
 		<name>stat_last_update</name>
-		<value>1422623111</value>
+		<value>1422794192</value>
 	</config>
 	<config>
 		<name>stat_settings</name>

@@ -128,7 +128,7 @@ function StdUserHeader ($metatags = '')
 	$parse['-title-'] 	.= read_config ( 'game_name' );
 	$parse['-favi-']	.= "<link rel=\"shortcut icon\" href=\"./favicon.ico\">\n";
 	$parse['-meta-']	.= "<meta http-equiv=\"Content-Type\" content=\"text/html;charset=UTF-8\">\n";
-	$parse['-meta-']	.= "<meta name=\"generator\" content=\"XG Proyect " . VERSION . "\" />\n";
+	$parse['-meta-']	.= "<meta name=\"generator\" content=\"Random Universe " . VERSION . "\" />\n";
 
 	if(!defined('LOGIN'))
 	{

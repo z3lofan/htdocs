@@ -30,10 +30,10 @@ $lang['user']						= 'Usuario';
 $lang['pass']						= 'Contrase&ntilde;a';
 $lang['remember_pass']				= 'Recordar Contrase&ntilde;a';
 $lang['lostpassword']				= '&iquest;Olvidaste tu Contrase&ntilde;a?';
-$lang['welcome_to']					= 'Bienvenido al';
+$lang['welcome_to']					= 'Bienvenido a';
 $lang['server_description']			= '</strong> es un <strong>juego de simulacion estrat&eacute;gica espacial</strong> con <strong>miles de jugadores</strong> a lo largo del mundo compitiendo por ser el mejor <strong>simult&aacute;neamente</strong>. Todo lo que necesitas para jugar, es un navegador web est&aacute;ndar.';
 $lang['server_register']			= '&iexcl;Registrate!';
-$lang['server_message']				= '&iexcl;&uacute;nete ya y forma parte del fant&aacute;stico';
+$lang['server_message']				= '&iexcl;&uacute;nete ya y forma parte de la';
 $lang['login']						= 'Ingresar';
 
 /* ------------------------------------------------------------------------------------------ */
@@ -52,11 +52,11 @@ $lang['mail_already_exists']		= '&iexcl;El email ingresado ya existe!<br />';
 $lang['welcome_message_from']		= 'Admin';
 $lang['welcome_message_sender']		= 'Admin';
 $lang['welcome_message_subject']	= '&iexcl;Bienvenido!';
-$lang['welcome_message_content']	= '&iexcl;Bienvenido al UniversoLMC!<p>Al comenzar, construye una mina de Metal.<br />Para hacerlo, haz click en el enlace \"Edificios\" en la izquierda, y dale a \"construir\" a la derecha de la mina de metal.<br />Ahora tienes algo de tiempo para conocer m&aacute;s cosas del juego.<p>Podr&aacute;s encontrar ayuda:<br />En el <a href=\"http://www.xtreme-gamez.com.ar/foros\" target=\"_blank\">Foro</a><br />Ahora, tu mina deber&iacute;a estar acabada.<br />Como no producen nada sin energ&iacute;a, deber&iacute;as construir una Planta de energ&iacute;a solar, vuelve a Edificios, y elige construir la Planta de energ&iacute;a solar.<p>Para ver todas las naves, estructuras defensivas, edificios e investigaciones que puedes investigar, puedes echarle un vistazo al &aacute;rbol de tecnolog&iacute;a en \"Tecnolog&iacute;a\" en el men&uacute; izquierdo.<p>Ahora ya puedes empezar la conquista del universo... &iexcl;Buena suerte!';
+$lang['welcome_message_content']	= '&iexcl;Bienvenido a Random Universe <p>Al comenzar, construye una mina de Metal.<br />Para hacerlo, haz click en el enlace \"Edificios\" en la izquierda, y dale a \"construir\" a la derecha de la mina de metal.<br />Ahora tienes algo de tiempo para conocer m&aacute;s cosas del juego.<p>Podr&aacute;s encontrar ayuda:<br />En el <a href=\"http://www.xtreme-gamez.com.ar/foros\" target=\"_blank\">Foro</a><br />Ahora, tu mina deber&iacute;a estar acabada.<br />Como no producen nada sin energ&iacute;a, deber&iacute;as construir una Planta de energ&iacute;a solar, vuelve a Edificios, y elige construir la Planta de energ&iacute;a solar.<p>Para ver todas las naves, estructuras defensivas, edificios e investigaciones que puedes investigar, puedes echarle un vistazo al &aacute;rbol de tecnolog&iacute;a en \"Tecnolog&iacute;a\" en el men&uacute; izquierdo.<p>Ahora ya puedes empezar la conquista del universo... &iexcl;Buena suerte!';
 $lang['reg_completed']				= '&iexcl;Registro completo!';
 
 //registry_form.tpl
-$lang['server_message_reg']			= '&iexcl;&Uacute;nete ya y forma parte del fant&aacute;stico mundo de';
+$lang['server_message_reg']			= '&iexcl;&Uacute;nete ya y forma parte del fant&aacute;stico mundo de la';
 $lang['register_at_reg']			= 'Registro en';
 $lang['user_reg']					= 'Usuario';
 $lang['pass_reg']					= 'Contrase&ntilde;a';

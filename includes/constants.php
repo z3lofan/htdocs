@@ -9,7 +9,7 @@
 if ( !defined('INSIDE') ) die(header("location:../"));
 
 	// VERSION
-	define('SYSTEM_VERSION' , '2.10.0');
+	define('SYSTEM_VERSION' , '3.0.0');
 
 	// TEMPLATES DEFAULT SETTINGS
 	define('SKIN_PATH'					, 'styles/skins/');
@@ -17,7 +17,7 @@ if ( !defined('INSIDE') ) die(header("location:../"));
 	define('DEFAULT_SKINPATH' 		 	, 'styles/skins/xgproyect/');
 
 	// ADMINISTRATOR EMAIL AND GAME URL - THIS DATA IS REQUESTED BY REG.PHP
-	define('ADMINEMAIL'               	, "info@xgproyect.com");
+	define('ADMINEMAIL'               	, "quintadimension@openmailbox.org");
 	define('GAMEURL'                  	, "http://".$_SERVER['HTTP_HOST']."/");
 
 	// UNIVERSE DATA, GALAXY, SYSTEMS AND PLANETS || DEFAULT 9-499-15 RESPECTIVELY
